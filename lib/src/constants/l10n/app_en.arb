@@ -1,0 +1,145 @@
+{
+    "onboardingTitle1": "Track your workouts",
+    "@language":{
+        "description": "First Onboarding Page Title"
+    },
+
+    "onboardingTitle2": "Track how your body changes",
+    "@language":{
+        "description": "Second Onboarding Page Title"
+    },
+
+    "onboardingTitle3": "Track your weight",
+    "@language":{
+        "description": "Third Onboarding Page Title"
+    },
+
+    "onboardingText1": "Record sets, reps and weight you did in your last workout",
+    "@language":{
+        "description": "First Onboarding Page Text"
+    },
+
+    "onboardingText2": "Measure your body parts to see more accurate progress",
+    "@language":{
+        "description": "Second Onboarding Page Text"
+    },
+
+    "onboardingText3": "Record your weight every day to keep on track towards your goal",
+    "@language":{
+        "description": "Third Onboarding Page Text"
+    },
+
+    "loginTitle": "Welcome Back,",
+    "@language":{
+        "description": "Login welcome text"
+    },
+
+    "loginText": "Login to your account.",
+    "@language":{
+        "description": "Login subtitle text"
+    },
+
+    "rememberMe": "Remember Me?",
+    "@language":{
+        "description": "remember me text"
+    },
+
+    "haveAnAccount": "Already have an Account?  ",
+    "@language":{
+        "description": "Already have an Account text"
+    },
+
+    "passwordText": "Password",
+    "@language":{
+        "description": "Password text"
+    },
+
+        "repeatPasswordText": "Repeat password",
+    "@language":{
+        "description": "Password text"
+    },
+
+    "forgetPasswordText": "Forget Password?",
+    "@language":{
+        "description": "Forget Password text"
+    },
+
+    "login": "LOGIN",
+    "@language":{
+        "description": "Login"
+    },
+
+    "register": "Sign Up",
+    "@language":{
+        "description": "Register"
+    },
+
+    "loginOr": "OR",
+    "@language":{
+        "description": "Or text"
+    },
+
+    "signInWithGoogle": "Sign-in as guest",
+    "@language":{
+        "description": "Sign-in with Google Text on login page"
+    },
+    
+    "noAccount": "Don't have an Account?  ",
+    "@language":{
+        "description": "Don't have an Account? Text on login page"
+    },
+
+    "createAccount": "Create your own account.",
+    "@language":{
+        "description": "Create your own account Text on signup page"
+    },
+
+    "nickname": "Nickname",
+    "@language":{
+        "description": "Nickname text"
+    },
+    
+    "fullName": "Name and Surname",
+    "@language":{
+        "description": "Name and Surname"
+    },
+
+    "height": "Height (cm)",
+    "@language":{
+        "description": "Height text"
+    },
+    
+    "weight": "Weight (kg)",
+    "@language":{
+        "description": "weight text"
+    },
+
+    "gender": "Gender",
+    "@language":{
+        "description": "gender text"
+    },
+    
+    "birthDate": "Date of birth",
+    "@language":{
+        "description": "birthDate text"
+    },
+    
+    "continouText": "Continue",
+    "@language":{
+        "description": "continue text"
+    },
+
+    "male": "Male",
+    "@language":{
+        "description": "male gender text"
+    },
+    
+    "female": "Female",
+    "@language":{
+        "description": "female gender text"
+    }
+
+        
+
+
+}

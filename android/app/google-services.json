@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773582885725",
+    "project_id": "flutter-fitness-7e8d0",
+    "storage_bucket": "flutter-fitness-7e8d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773582885725:android:d3356fc3aa976de7490eb4",
+        "android_client_info": {
+          "package_name": "com.example.wtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773582885725-4cuulu3vteg8amsouelaa3769fdvnujj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf8UZfp-cxKH4fpWCW_SEkDyk9Fmq6aJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773582885725-4cuulu3vteg8amsouelaa3769fdvnujj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
